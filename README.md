@@ -6,6 +6,8 @@ Live Website Link: https://le11evan.github.io/react_calculator/
 # How to Contribute
 Video on how to clone react apps from Github: https://www.youtube.com/watch?v=i8KuDon82KM&ab_channel=h3webdevtuts
 
+Once you have the project on your computer, just make necessary changes, and make a pull request!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
