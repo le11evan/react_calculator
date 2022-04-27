@@ -1,11 +1,10 @@
 # Project Description
 This is a simple react calculator. So far the calculator has division, mulitplication, addition, and subtraction. However, I want to add a lot more features, like cos, sin tan, sqare root, etc. 
 
+Live Website Link: https://le11evan.github.io/react_calculator/
+
 # How to Contribute
 Video on how to clone react apps from Github: https://www.youtube.com/watch?v=i8KuDon82KM&ab_channel=h3webdevtuts
-
-# Live Website link
-https://le11evan.github.io/react_calculator/
 
 # Getting Started with Create React App
 
